@@ -6,14 +6,14 @@
 3. Identify absolute changes in inflation over the same 12-month period and find the biggest individual category contributor (within Food & Beverages) towards inflation.
 
 ## 📂 Dataset
-- Source: [Official CPI Data - India](<link if available>)
+- Source: 
 - Period: 2013 – 2023
 - Categories: Food & Beverages, Housing, Clothing, Miscellaneous, etc.
 
 ## 🛠 Tools Used
 - *Excel* – Data cleaning, calculations, and pivot tables.
 - *Power BI / Tableau* – Dashboard creation & visualisation.
-- *Python (optional)* – For trend analysis and charts.
+  
   
 ## 📊 Analysis Performed
 1. *Sector Contribution* – Identified the highest CPI contributing sector for May 2023.
@@ -21,18 +21,12 @@
 3. *Category Impact* – Found the top Food & Beverages category driving inflation over the past year.
 
 ## 📈 Key Insights
-- *Highest contributor in May 2023*: XYZ sector  
-- *Y-o-Y CPI trend*: Upward/Downward/Stable trend with notable spikes in Year.  
-- *Biggest contributor within Food & Beverages*: ABC category.
-
-## 📷 Dashboards
-![Dashboard Screenshot 1](images/dashboard1.png)
-![Dashboard Screenshot 2](images/dashboard2.png)
-
+- *Highest contributor in May 2023*: Food and Beverages Sector  
+- *Y-o-Y CPI trend*: Upward trend with notable spikes in Year.  
+- *Biggest contributor within Food & Beverages*: Egg for Rural, Food and Beverages for Urban, Cereals and Products for Rural+Urban
+  
 ## 🚀 How to Use
-1. Download the dataset (data/cpi_data.csv).
-2. Open the analysis file (cpi_analysis.xlsx or .ipynb).
+1. Download the dataset 
+2. Open the analysis file 
 3. View dashboards in /dashboards folder.
 
-## 📜 License
-This project is open source under the MIT License.
